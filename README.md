@@ -18,5 +18,7 @@ g++ banker.cpp -o banker
 
 # Output:
 The system is in Safe State!!! 
+
 The Safe Sequence is: 
+
 P1 -> P3 -> P4 -> P0 -> P2
