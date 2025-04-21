@@ -1,5 +1,5 @@
-#ifndef TEST_HPP // CHANGE TITLE WHEN POSTED
-#define TEST_HPP
+#ifndef BANKER_HPP
+#define BANKER_HPP
 
 //Include files
 #include <iostream>
