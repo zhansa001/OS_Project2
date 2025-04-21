@@ -1,10 +1,13 @@
 # OS_Project2
 
-#Description (from Assignment doc):
+# Description (from Assignment doc):
 Considering a system with five processes P0 through P4 and three resources of type A, B, C. Resource type A has 10 instances, B has 5 instances and type C has 7 instances. Suppose at time t0 following snapshot of the system has been taken:
 
-[Picture1.png](https://kent.instructure.com/courses/100383/files/19238596/preview)
+
 
  
+<img width="468" alt="osp2" src="https://github.com/user-attachments/assets/77220aa2-89c4-4517-87aa-868c85e31dda" />
 
-Implement the Banker’s algorithm to answer the following question： Is the system in a safe state? If Yes, then what is the safe sequence?
+Implement the Banker’s algorithm to answer the following question： 
+1. Is the system in a safe state?
+2. If Yes, then what is the safe sequence?
