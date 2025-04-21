@@ -87,7 +87,7 @@ int main() {
     }
     
     if(safe) {
-        std::cout << "The system is in Safe State and the safe sequence is: ";
+        std::cout << "The system is in Safe State and the safe sequence is: \n";
         for(size_t i = 0; i < safeSequence.size(); ++i) {
             std::cout << "P" << safeSequence[i];
             if (i != safeSequence.size() - 1) std::cout << " -> ";
