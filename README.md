@@ -12,8 +12,14 @@ Implement the Banker’s algorithm to answer the following question：
 1. Is the system in a safe state?
 2. If Yes, then what is the safe sequence?
 
-# Input file:
+# Dependencies:
+In the banker.hpp file, it includes the standard iostream, fstream, and vector needed for the assiagnment along with initializing the 5 processes and 3 resources.
+
+The banker.cpp file have the Safe Algorithms, read the available, allocation/max matrix, and calculate the need (max - allocation).
+Also, printing out the safe sequence.
+
 The input file customized the format that stores the data provided in the table.
+
 3 3 2
 
 0 1 0
@@ -37,6 +43,7 @@ The input file customized the format that stores the data provided in the table.
 4 3 3
 
 # Compilation:
+To compile and the banker.cpp, use the following commands:
 g++ banker.cpp -o banker
 
 ./banker
