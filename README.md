@@ -14,6 +14,7 @@ Implement the Banker’s algorithm to answer the following question：
 
 # Compilation:
 g++ banker.cpp -o banker
+
 ./banker
 
 # Output:
