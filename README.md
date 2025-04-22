@@ -43,7 +43,7 @@ The input file customized the format that stores the data provided in the table.
 4 3 3
 
 # Compilation:
-To compile and the banker.cpp, use the following commands:
+To compile and run the banker.cpp, use the following commands:
 
 g++ banker.cpp -o banker
 
