@@ -12,6 +12,9 @@ Implement the Banker’s algorithm to answer the following question：
 1. Is the system in a safe state?
 2. If Yes, then what is the safe sequence?
 
+# Input file:
+The input file customized the format that stores the data provided in the table.
+
 # Compilation:
 g++ banker.cpp -o banker
 
