@@ -14,6 +14,27 @@ Implement the Banker’s algorithm to answer the following question：
 
 # Input file:
 The input file customized the format that stores the data provided in the table.
+3 3 2
+
+0 1 0
+
+2 0 0
+
+3 0 2
+
+2 1 1
+
+0 0 2
+
+7 5 3
+
+3 2 2
+
+9 0 2
+
+2 2 2
+
+4 3 3
 
 # Compilation:
 g++ banker.cpp -o banker
